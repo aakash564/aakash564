@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 NOC Enginer and Cybersecurity Enthusiast
 
 🌍 I'm based in kathmandu, Nepal
-✉️ You can contact me at ac6711951@gmail.com
-🧠 I'm currently learning Master of Information Technology
 👥 I'm looking to collaborate on Cybersecurity projects
 💬 Love to perform same task in a different way
 
